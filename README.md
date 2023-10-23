@@ -11,7 +11,7 @@ PGN evaluation statistic from the first 8 moves engines play after the book or o
 "y" means the engine scores are from the white point of view
 "n" means the engine scores are from the engine point of view
 
-6. Answer the question "Type white, black or both" with "white" or "black" or "both".
+6. Answer the question "Type white, black or both"
 white - statistic is made when engines play the white pieces;
 black - statistic is made when engines play the black pieces;
 both  - all games will be evaluated, the statistic makes little sense when matches are played with reversed openings.
