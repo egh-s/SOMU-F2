@@ -6,9 +6,9 @@ PGN evaluation statistic from the first 8 moves engines play after the book or o
 3. Press [F2]
 4. Select the pgn
 
-Answer the question "Negate black scores" with "y" or "n"  
-"y" means the engine scores are from the white point of view
-"n" means the engine scores are from the engine point of view
+5. Answer the question "Negate black scores" with "y" or "n"  
+6. "y" means the engine scores are from the white point of view
+7. "n" means the engine scores are from the engine point of view
 
 7. Answer the question "Type white, black or both" with "white" or "black" or "both".
 white - statistic is made when engines play the white pieces;
